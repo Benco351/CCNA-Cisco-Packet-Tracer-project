@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Cisco.png" alt="Logo" width="100" height="100">
 </p>
   <h3 align="center">Routing projects</h3>
  
